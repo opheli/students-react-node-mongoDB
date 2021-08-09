@@ -1,0 +1,23 @@
+{
+  "name": "students",
+  "version": "1.0.0",
+  "description": "backend / nodeJs + DB mongoose",
+  "main": "server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run frontend\" \"npm run backend\"",
+    "frontend": "react-scripts start",
+    "backend": "nodemon backend.js",
+    "start": "node backend.js",
+    "build": "react-scripts build",
+	  "eject": "react-scripts eject"
+  },
+  "author": "Ophelie",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-router": "^0.0.1",
+    "mongoose": "^5.13.5",
+    "nodemon": "^2.0.12"
+  }
+}

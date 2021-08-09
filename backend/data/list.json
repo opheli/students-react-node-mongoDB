@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Anthéa",
+        "age": 31,
+        "city": "Paris",
+        "languages": [
+            "French"
+        ]
+    },
+    {
+        "name": "Hanaé",
+        "age": 22,
+        "city": "Madrid",
+        "languages": [
+            "Spanish",
+            "English"
+        ]
+    },
+    {
+        "name": "Philippe",
+        "age": 42,
+        "city": "Toronto",
+        "languages": [
+            "French",
+            "English"
+        ]
+    }
+]
